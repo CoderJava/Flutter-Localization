@@ -1,0 +1,45 @@
+{
+  "@@last_modified": "2019-11-17T19:15:54.835884",
+  "helloWorld": "Hello World",
+  "@helloWorld": {
+    "description": "Word Hello World",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeScreen": "Home Screen",
+  "@homeScreen": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountScreen": "Account Screen",
+  "@accountScreen": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingScreen": "Setting Screen",
+  "@settingScreen": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "account": "Account",
+  "@account": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setting": "Setting",
+  "@setting": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

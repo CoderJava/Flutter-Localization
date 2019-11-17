@@ -1,0 +1,45 @@
+{
+  "@@last_modified": "2019-11-17T19:15:54.835884",
+  "helloWorld": "Halo Dunia",
+  "@helloWorld": {
+    "description": "Kata Halo Dunia",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeScreen": "Tampilan Rumah",
+  "@homeScreen": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountScreen": "Tampilan Akun",
+  "@accountScreen": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingScreen": "Tampilan Pengaturan",
+  "@settingScreen": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Rumah",
+  "@home": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "account": "Akun",
+  "@account": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setting": "Pengaturan",
+  "@setting": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}
